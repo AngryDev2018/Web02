@@ -7,6 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		ApplicationContext context = new ClassPathXmlApplicationContext("mybean-context.xml");
+		System.out.println("Task 01");
 		System.out.println(context.getBean("myBean"));
 		System.out.println(context.getBean("myBean2"));
 	}
