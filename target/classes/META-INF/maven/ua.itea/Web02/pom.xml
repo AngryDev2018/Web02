@@ -5,7 +5,7 @@
 
 	<groupId>ua.itea</groupId>
 	<artifactId>Web02</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Web02</name>
